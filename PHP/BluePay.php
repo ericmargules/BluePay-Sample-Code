@@ -1020,5 +1020,5 @@ class BluePay {
     }
 }
 
-define("RELEASE_VERSION", '3.0.2');
+define("RELEASE_VERSION", '3.0.3');
 ?>
